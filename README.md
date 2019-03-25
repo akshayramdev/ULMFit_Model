@@ -4,3 +4,4 @@ This notebook takes in the Dataset given to us Twitter US Airline Sentiment Data
 
 df['airline_sentiment'].value_counts().plot(kind='bar') // PLOTS THE GRAPH BETWEEN THE SENTIMENTS AND NUMBER OF TWEETS 
 
+
